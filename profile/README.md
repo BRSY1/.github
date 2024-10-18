@@ -1,15 +1,16 @@
-# Bristol Year 1 Comp Sci
 
-## Current Projects
-### Formula Student AI - [Website](https://www.imeche.org/events/formula-student/team-information/fs-ai)
+# 🖥️ Bristol Comp Sci
+
+## 📚 Current Projects 
+### 🏎️ Formula Student AI - [Website](https://www.imeche.org/events/formula-student/team-information/fs-ai)
 - Creating autonomous code to run on physical hardware around Silverstone.
   
 
-### GameJam @ CSS Bristol - [Website](https://cssbristol.co.uk/)
+### 🎃 GameJam @ CSS Bristol - [Website](https://cssbristol.co.uk/)
 - Creating a halloween themed game in 24hrs.
   
 
-## Members 
+## 👨‍💻 Members 
 Archie Kind (Org Leader) - [Github](https://github.com/archiekind)<br>
 Tom Lam - [Github](https://github.com/T0mLam)<br>
 Josh Jenkins - [Github](https://github.com/joshjkns)<br>
