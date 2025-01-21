@@ -1,13 +1,15 @@
 
 # 🖥️ Bristol Comp Sci
 
-## 📚 Current Projects 
-### 🏎️ Formula Student AI - [Website](https://www.imeche.org/events/formula-student/team-information/fs-ai)
-- Creating autonomous code to run on physical hardware around Silverstone.
-  
+## 📚 Our Projects 
+### 💘 BristolLink
+- A matchmaking platform for Bristol Uni students during Valentine's day 2025.
 
-### 🎃 GameJam @ CSS Bristol - [Website](https://cssbristol.co.uk/)
-- Creating a halloween themed game in 24hrs.
+### 🖥️ BAE Systems x CSS Bristol Capture the Flag 
+- Achieved 4th place in cyber security challenges and games.
+  
+### 🎃 GameJam @ CSS Bristol 
+- Created [Candycombs](https://github.com/BRSY1/candycombs), a halloween themed game in 24hrs.
   
 
 ## 👨‍💻 Members 
