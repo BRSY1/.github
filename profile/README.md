@@ -1,18 +1,21 @@
 <img src="banner.png"></img>
-# 🖥️ Bristol Comp Sci
 
 ## 📚 Our Projects 
+
 ### 💘 BristolLink
+
 - A matchmaking platform for Bristol Uni students during Valentine's day 2025.
 
 ### 🖥️ BAE Systems x CSS Bristol Capture the Flag 
+
 - Achieved 4th place in cyber security challenges and games.
-  
+
 ### 🎃 GameJam @ CSS Bristol 
+
 - Created [Candycombs](https://github.com/BRSY1/candycombs), a halloween themed game in 24hrs.
-  
 
 ## 👨‍💻 Members 
+
 <table>
   <tr align="center" valign="top">
     <td width="20%"><a href="https://github.com/archiekind"><img src="https://avatars.githubusercontent.com/archiekind"><br><b>Archie Kind</b></a></td>
@@ -27,6 +30,7 @@
     <td width="20%"><a href="https://github.com/T0mLam"><img src="https://avatars.githubusercontent.com/T0mLam"><br><b>Tom Lam</b></a></td>
   </tr>
 </table>
+
 
 <!--
 Archie Kind (Org Leader) - [Github](https://github.com/archiekind)<br>
