@@ -2,15 +2,15 @@
 
 ## 📚 Our Projects 
 
-### 💘 BristolLink
+### 💘 [BristolLink](https://github.com/BRSY1/BristolLink)
 
 - A matchmaking platform for Bristol Uni students during Valentine's day 2025.
 
-### 🖥️ BAE Systems x CSS Bristol Capture the Flag 
+### 🖥️ [BAE Systems x CSS Bristol Capture the Flag](https://cssbristol.co.uk/events/2025-01-13-bae-system-ctf/)
 
 - Achieved 4th place in cyber security challenges and games.
 
-### 🎃 GameJam @ CSS Bristol 
+### 🎃 [GameJam @ CSS Bristol](https://cssbristol.co.uk/about/)
 
 - Created [Candycombs](https://github.com/BRSY1/candycombs), a halloween themed game in 24hrs.
 
