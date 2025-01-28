@@ -1,4 +1,4 @@
-
+<img src="banner.png"></img>
 # 🖥️ Bristol Comp Sci
 
 ## 📚 Our Projects 
