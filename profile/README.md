@@ -26,6 +26,7 @@
     <!--<td width="16.66%"><a href="https://github.com/T0mLam"><img src="https://avatars.githubusercontent.com/T0mLam"><br><b>Tom Lam</b></a><br><b>#ML🤖🧠</b><br><br><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"><br><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></td>-->
   </tr>
   <tr align="center" valign="top">
+     <td width="20%"><a href="https://github.com/PiotrStelmaszczyk"><img src="https://avatars.githubusercontent.com/PiotrStelmaszczyk"><br><b>Piotr Stelmaszczyk</b></a></td>
     <td width="20%"><a href="https://github.com/kshubham-108"><img src="https://avatars.githubusercontent.com/kshubham-108"><br><b>Shubham Kulkarni</b></a></td>
     <td width="20%"><a href="https://github.com/T0mLam"><img src="https://avatars.githubusercontent.com/T0mLam"><br><b>Tom Lam</b></a></td>
   </tr>
