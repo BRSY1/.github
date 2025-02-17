@@ -2,6 +2,10 @@
 
 ## 📚 Our Projects 
 
+### 🌱 [EcoSim](https://github.com/BRSY1/ecosim)
+
+- An ecosystem simulator developed during BrisHack 2025, awarded the Best ML Award.
+
 ### 💘 [BristolLink](https://github.com/BRSY1/BristolLink)
 
 - A matchmaking platform for Bristol Uni students during Valentine's day 2025.
